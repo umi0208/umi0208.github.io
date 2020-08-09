@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://umi0208.github.io/"/>
-  <updated>2020-08-09T10:05:18.067Z</updated>
+  <updated>2020-08-09T10:56:22.985Z</updated>
   <id>https://umi0208.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://umi0208.github.io/2020/080959478.html"/>
     <id>https://umi0208.github.io/2020/080959478.html</id>
     <published>2020-08-09T09:44:01.000Z</published>
-    <updated>2020-08-09T10:05:18.067Z</updated>
+    <updated>2020-08-09T10:56:22.985Z</updated>
     
     <content type="html"><![CDATA[<h1 id="测试文章能不能成功"><a href="#测试文章能不能成功" class="headerlink" title="测试文章能不能成功"></a>测试文章能不能成功</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><ul><li>fhaiohfioahfioh<br>adfujfhioafhiop<br>itwheiot  </li><li>111222333</li></ul><h2 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h2><p><img src= "/img/loading.gif" data-lazy-src="https://s1.ax1x.com/2020/08/09/aoKbFO.jpg"></p><h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p><a href="https://www.baidu.com/">超链接测试</a></p><ol><li>2222 </li><li>2222 41241224</li></ol>]]></content>
     
@@ -35,8 +35,12 @@
     </summary>
     
     
+      <category term="测试分类" scheme="https://umi0208.github.io/categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/"/>
+    
     
       <category term="测试" scheme="https://umi0208.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="我可以了吗" scheme="https://umi0208.github.io/tags/%E6%88%91%E5%8F%AF%E4%BB%A5%E4%BA%86%E5%90%97/"/>
     
   </entry>
   
