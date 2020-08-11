@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://umi0208.github.io/2020/081114238.html</loc>
+    
+    <lastmod>2020-08-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://umi0208.github.io/2020/08113100.html</loc>
     
     <lastmod>2020-08-11</lastmod>
@@ -75,6 +82,13 @@
   
   <url>
     <loc>https://umi0208.github.io/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2020-08-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://umi0208.github.io/tags/%E3%80%8AGood-Omes%E3%80%8B/</loc>
     <lastmod>2020-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
