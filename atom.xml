@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://umi0208.github.io/"/>
-  <updated>2020-08-09T10:56:22.985Z</updated>
+  <updated>2020-08-11T06:45:42.868Z</updated>
   <id>https://umi0208.github.io/</id>
   
   <author>
@@ -17,30 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>文章测试</title>
+    <title>建站成功，撒花花～</title>
     <link href="https://umi0208.github.io/2020/080959478.html"/>
     <id>https://umi0208.github.io/2020/080959478.html</id>
     <published>2020-08-09T09:44:01.000Z</published>
-    <updated>2020-08-09T10:56:22.985Z</updated>
+    <updated>2020-08-11T06:45:42.868Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="测试文章能不能成功"><a href="#测试文章能不能成功" class="headerlink" title="测试文章能不能成功"></a>测试文章能不能成功</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><ul><li>fhaiohfioahfioh<br>adfujfhioafhiop<br>itwheiot  </li><li>111222333</li></ul><h2 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h2><p><img src= "/img/loading.gif" data-lazy-src="https://s1.ax1x.com/2020/08/09/aoKbFO.jpg"></p><h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p><a href="https://www.baidu.com/">超链接测试</a></p><ol><li>2222 </li><li>2222 41241224</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>&#160; &#160; &#160; &#160;<br>其实这个Blog来的很随便，仅仅是因为看了老婆的网站，萌生了自己也建一个的想法。其实一开始以为会很简单，套模版就完事了那种，现在想想还真是初生牛犊不怕虎啊。  </p><p>&#160; &#160; &#160; &#160;<br>老婆说她建站花了十小时，想想满打满算做到满意我自己也弄了整整四天，一开始连Github是什么都不知道，就按照B站一位教小白建站的视频照葫芦画瓢，没想到真的能成功。  </p><p>&#160; &#160; &#160; &#160;<br>真的很感谢老婆！因为我自己真的是纯小白，对于js啊css啊这些完全都不懂，她陪我熬了好几个夜，帮我看bug出在哪里，还专门帮我看这个butterfly主题的配置，从来不会对我问的弱智问题不耐烦，有这样的朋友，夫复何求呢。<br>第一天弄到半夜，一直不知道bug出在哪里。那天网页不是404就是一片空白（后来发现了一个自己把Github拼成Gituhb的脑残错误）。后来找到了错，当第二天hexo默认页面那篇“hello world”出来的时候，真的体验到了好久好久都没体验到过的那种兴奋和成就感。  </p><p>&#160; &#160; &#160; &#160;<br>后面自己选定了butterfly这个主题，作者JerryC真的是神，网页非常简洁，可塑性很好，还有超级多功能（虽然那些我可能还需要研究一下比如留言板）。<br>感叹一下，站在巨人的肩膀上真好啊～  </p><p>&#160; &#160; &#160; &#160;<br>当然配置的时候也吃了好多问题，比如第二天起床导航栏突然失踪只能重装，到现在都不知道怎么创相册，改颜色的时候error了半天结果是拼写问题…太多了，有些是粗心有些是技术不到家，大部分改完回头一看：啊，好蠢的错误。<br>我是真的需要变细心啊！！  </p><p>&#160; &#160; &#160; &#160;<br>其实心血来潮好像也不足以支撑我熬三个夜去做这个东西，我就是突然感受到了好久没有感受到的，做好一件事情的感觉。<br>还有就是希望我以后能坚持下去，经常写点儿什么看点儿什么，QQ空间是不打算用了，lofter感觉岌岌可危，微博可能只是纯粹娱乐，这里可能会是我的一个小小的，私密的地方吧。  </p><p>&#160; &#160; &#160; &#160;<br>也算献祭头发打开全新世界的大门啦，真的很感谢我老婆教会我好多！有个个人Blog也太酷了。  </p><p>&#160; &#160; &#160; &#160;<br>今后也会努力完善我的Blog的，争取早日上线2dlive，相册，字数统计，飘花花之类的功能，我可以，我能行。<br>最后，谢谢有幸看到这篇Blog的你！</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;测试文章能不能成功&quot;&gt;&lt;a href=&quot;#测试文章能不能成功&quot; class=&quot;headerlink&quot; title=&quot;测试文章能不能成功&quot;&gt;&lt;/a&gt;测试文章能不能成功&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerli
+        &lt;p&gt;&amp;#160; &amp;#160; &amp;#160; &amp;#160;&lt;br&gt;其实这个Blog来的很随便，仅仅是因为看了老婆的网站，萌生了自己也建一个的想法。其实一开始以为会很简单，套模版就完事了那种，现在想想还真是初生牛犊不怕虎啊。  &lt;/p&gt;
+&lt;p&gt;&amp;#160; &amp;#160; &amp;#16
       
     
     </summary>
     
     
-      <category term="测试分类" scheme="https://umi0208.github.io/categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/"/>
+      <category term="每天写点儿什么" scheme="https://umi0208.github.io/categories/%E6%AF%8F%E5%A4%A9%E5%86%99%E7%82%B9%E5%84%BF%E4%BB%80%E4%B9%88/"/>
     
-    
-      <category term="测试" scheme="https://umi0208.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="我可以了吗" scheme="https://umi0208.github.io/tags/%E6%88%91%E5%8F%AF%E4%BB%A5%E4%BA%86%E5%90%97/"/>
     
   </entry>
   
